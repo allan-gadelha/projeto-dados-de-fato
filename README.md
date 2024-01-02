@@ -46,14 +46,19 @@ Certifique-se de ter os seguintes pacotes Python instalados:
 ## Contato
 Para dúvidas ou problemas, sinta-se à vontade para entrar em contato com o proprietário do projeto:
 
-Allan Gadelha:
-- LinkedIn: (https://www.linkedin.com/in/allan-gadelha-216647279/)
-GitHub: [Seu Perfil no GitHub]
+### Allan Gadelha:
+- LinkedIn: [Perfil no LinkedIn](https://www.linkedin.com/in/allan-gadelha-216647279/)
+- GitHub: [Perfil no GitHub](https://github.com/allan-gadelha)
+- Email: [Seu Email]
 
-LinkedIn: [Seu Email]
-GitHub: [Seu Perfil no GitHub]
+### Rafael Feltrin:
+- LinkedIn: [Perfil no LinkedIn](https://www.linkedin.com/in/rfeltrin18/)
+- GitHub: [Perfil no GitHub](https://github.com/rfeltrin18)
+- Email: [Seu Email]
 
-Rafael Feltrin
-LinkedIn: [Seu Email]
-GitHub: [Seu Perfil no GitHub]
+### Yan Cavalcante
+- LinkedIn: [Perfil no LinkedIn](https://www.linkedin.com/in/yan-cavalcante)
+- GitHub: [Perfil no GitHub](https://github.com/rafael-feltrin)
+- Email: [Seu Email](yan.cavalcante97@gmail.com)
+
 Nota: Este projeto é uma colaboração envolvendo três contribuidores.
