@@ -56,6 +56,6 @@ Para dúvidas ou problemas, sinta-se à vontade para entrar em contato com o pro
 
 ### Yan Cavalcante
 - LinkedIn: [Perfil no LinkedIn](https://www.linkedin.com/in/yan-cavalcante)
-- GitHub: [Perfil no GitHub](https://github.com/rafael-feltrin)
+- GitHub: [Perfil no GitHub](https://placeholder.com)
 
 Nota: Este projeto é uma colaboração envolvendo três contribuidores.
