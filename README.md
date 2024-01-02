@@ -49,16 +49,13 @@ Para dúvidas ou problemas, sinta-se à vontade para entrar em contato com o pro
 ### Allan Gadelha:
 - LinkedIn: [Perfil no LinkedIn](https://www.linkedin.com/in/allan-gadelha-216647279/)
 - GitHub: [Perfil no GitHub](https://github.com/allan-gadelha)
-- Email: [Seu Email]
 
 ### Rafael Feltrin:
 - LinkedIn: [Perfil no LinkedIn](https://www.linkedin.com/in/rfeltrin18/)
 - GitHub: [Perfil no GitHub](https://github.com/rfeltrin18)
-- Email: [Seu Email]
 
 ### Yan Cavalcante
 - LinkedIn: [Perfil no LinkedIn](https://www.linkedin.com/in/yan-cavalcante)
 - GitHub: [Perfil no GitHub](https://github.com/rafael-feltrin)
-- Email: [Seu Email](yan.cavalcante97@gmail.com)
 
 Nota: Este projeto é uma colaboração envolvendo três contribuidores.
