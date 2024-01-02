@@ -46,8 +46,8 @@ Certifique-se de ter os seguintes pacotes Python instalados:
 ## Contato
 Para dúvidas ou problemas, sinta-se à vontade para entrar em contato com o proprietário do projeto:
 
-Allan Gadelha
-LinkedIn: [[Seu Email](https://www.linkedin.com/in/allan-gadelha-216647279/)]
+Allan Gadelha:
+- LinkedIn: (https://www.linkedin.com/in/allan-gadelha-216647279/)
 GitHub: [Seu Perfil no GitHub]
 
 LinkedIn: [Seu Email]
