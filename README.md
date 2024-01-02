@@ -44,7 +44,7 @@ Certifique-se de ter os seguintes pacotes Python instalados:
 - Seaborn
 
 ## Contato
-Para dúvidas ou problemas, sinta-se à vontade para entrar em contato com o proprietário do projeto:
+Para dúvidas ou problemas, sinta-se à vontade para entrar em contato com os proprietários do projeto:
 
 ### Allan Gadelha:
 - LinkedIn: [Perfil no LinkedIn](https://www.linkedin.com/in/allan-gadelha-216647279/)
