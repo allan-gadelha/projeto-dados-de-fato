@@ -159,3 +159,5 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 data/steamdb.json
+data/game_data_all.csv
+data/games-release-ALL.csv
