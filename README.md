@@ -43,16 +43,13 @@ Certifique-se de ter os seguintes pacotes Python instalados:
 - Matplotlib
 - Seaborn
 
-## Contato
-Para dúvidas ou problemas, sinta-se à vontade para entrar em contato com os proprietários do projeto:
+## Creators
+
+This is a collaboration between myself and the following:
 
 ### Allan Gadelha:
 - LinkedIn: [Perfil no LinkedIn](https://www.linkedin.com/in/allan-gadelha-216647279/)
 - GitHub: [Perfil no GitHub](https://github.com/allan-gadelha)
-
-### Rafael Feltrin:
-- LinkedIn: [Perfil no LinkedIn](https://www.linkedin.com/in/rfeltrin18/)
-- GitHub: [Perfil no GitHub](https://github.com/rfeltrin18)
 
 ### Yan Cavalcante:
 - LinkedIn: [Perfil no LinkedIn](https://www.linkedin.com/in/yan-cavalcante)
